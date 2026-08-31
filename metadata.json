@@ -1,0 +1,6 @@
+{
+  "name": "마니또 매칭 웹 애플리케이션",
+  "description": "26인의 완전 순환 무작위 마니또 매칭 및 익명 응원 메시지 전달 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
